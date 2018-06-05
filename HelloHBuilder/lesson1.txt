@@ -52,7 +52,7 @@ e赋值改为超链接：e Space = Space $ Enter Enter Enter ; Enter
 给a1加target：e . t 5 =  " Enter Enter ; Enter
 e赋值改为image对象：e Space = Space n e w Space i m 6 Enter ; Enter
 为img增加图片： e . s r Enter = " Enter Enter ; Enter
-e赋值改为indexedDB对象：e Space = Space w i Enter . i Enter Space | | Space w i Enter .  i n d e x e d 5 Space | | Space w i Enter . i n d e x e d 3 Space | | Space w i Enter . i n d e x e d 2 ; Enter 
+e赋值改为indexedDB对象：e Space = Space w i Enter . i Enter Space | | Space w i Enter .  i n d e x e d 5 Space | | Space w i Enter . i n d e x e d 3 Space | | Spac试试试试e w i Enter . i n d e x e d 2 ; Enter 
 确认e可被浏览器识别：i f f Enter (也可以使用i f 2) t y 4 e Enter ↓
 执行indexdb的方法：e . o p Enter " t e s t Enter ; ↓ Enter
 ------以下为删除又添加上外部css引用
@@ -134,4 +134,4 @@ HBuilder的快捷键是有规律的，虽然与其他软件不同。但记忆几
 	比如if直接敲会提示if关键字，但iff回车，则出现if代码块。
 	类似的有forr、withh等。
 	由于funtion字母较长，为加快输入速度，取fun缩写，
-	比如funn，输出function代码块，而funa和func，分别输出匿名函数和闭包。
+	比如funn，输出function代码块，而funa和func，分别输出匿名函数和闭包。ssss
